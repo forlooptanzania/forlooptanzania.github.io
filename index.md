@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+## What's forLoop?
 
-You can use the [editor on GitHub](https://github.com/forlooptanzania/forlooptanzania.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+forLoop is a community of passionate software developers and enthusiasts across Africa.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What's forLoopTanzania?
 
-### Markdown
+forLoopTanzania is a forLoop community based in Tanzania.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## When is the next meetup and where will it be?
 
-```markdown
-Syntax highlighted code block
+Theme: **The Next Billion: Harder, Better, Faster, Stronger.**
 
-# Header 1
-## Header 2
-### Header 3
+When: **Wednesday, October, 17th at 7pm**
 
-- Bulleted
-- List
+Where: **[Seedspace, 7th Floor, Tanzaniate Park 38, New Bagamoyo Road][1]**
 
-1. Numbered
-2. List
+[1]: https://goo.gl/maps/eEcfXyFBac52
 
-**Bold** and _Italic_ and `Code` text
+## Do I need to be an expert to attend?
 
-[Link](url) and ![Image](src)
-```
+Nope. In fact, bring your friends.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Do I need to be an expert to talk?
 
-### Jekyll Themes
+Nope. This meetup is supposed to be fun and casual, so we want everyone to
+participate.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/forlooptanzania/forlooptanzania.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## What kind of talks are you looking for?
 
-### Support or Contact
+Generally, all talks are welcome. However, the balance we try to meet is:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* **2x Creative Talks**: Creative applications of programming, e.g. building a web MIDI Player.
+* **1x Passion Talk**: Something you're excited about outside of work, e.g. maintaining the linux kernel. 
+* **1x Technical Talk**: A deep dive on a technical topic, e.g. optimizing your code for the V8 engine.
+
+## How do I submit a talk?
+
+1. Comment on the current open [Call for Speakers issue][2].
+2. Promote your talk on twitter. Include link to your comment.
+3. Use hashtags: `#forloop`, `#forlooptanzania`, `#tanzania`, `#speaking`.
+
+[2]: https://github.com/forlooptanzania/forlooptanzania.github.io.git
+
+## How long should my talk be?
+
+Ten minutes. There won't be any formal Q&A; we encourage attendees to ask
+questions in person later. We also try to introduce you well enough so you can
+speed through any self-bio slides.
+
+## What should be in my talk submission?
+
+Just a few sentences describing what you want to talk about would be great.
+
+## What happens after I submit my talk?
+
+We will follow up with you via email! It may take a few days.
+
+## What's the A/V situation?
+
+We'll have HDMI to plug into (for video and audio) and a mic for you to use.
+Let us know if you need any fancy adapters (we'll have some Apple ones).
+
+## Do I need to submit my slides beforehand?
+
+Nope, but please show up at least 1 hour before your talk.
