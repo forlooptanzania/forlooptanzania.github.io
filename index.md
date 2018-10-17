@@ -10,7 +10,7 @@ forLoopTanzania is a forLoop community based in Tanzania.
 
 Theme: **The Next Billion: Harder, Better, Faster, Stronger.**
 
-When: **Wednesday, October, 17th at 7pm**
+When: **Wednesday, October, 17th at 5pm**
 
 Where: **[Seedspace, 7th Floor, Tanzaniate Park 38, New Bagamoyo Road][1]**
 
