@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Abuka Nshunju (Male)
 
-Fun fact: My web browser is vim-based.
+Fun fact: I love food.
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [abknshunju@gmail.com](mailto:abknshunju@gmail.com)
+- GitHub [abukanshunju](https://github.com/abk47)
+- Twitter [@drama_abk](https://twitter.com/drama_abk)
