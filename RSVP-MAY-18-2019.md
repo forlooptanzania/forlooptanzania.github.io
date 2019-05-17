@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Imani Matafu (Male)
 
-Fun fact: My web browser is vim-based.
+Fun fact: Sgit erverless is not necessarily the lack of servers...
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [imatafu@outlook.com](mailto:imatafu@outlook.com)
+- GitHub [iMprojekt](https://github.com/iMprojekt)
+- Twitter [@ufatam](https://twitter.com/ufatam)
