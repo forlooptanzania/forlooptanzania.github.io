@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Leticia Nkulu (Female)
 
-Fun fact: My web browser is vim-based.
+Fun fact:  I used to be on the soccer team (goal keeper) and was a  member of the Karate club in Highschool :-)
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [leticia.nkulu@gmail.com](mailto:leticia.nkulu@gmail.com)
+- GitHub [leticia.nkulu](https://github.com/letynk)
+- Twitter [@leticiankulu](https://twitter.com/leticiankulu)
