@@ -2,7 +2,7 @@
 
 ## Imani Matafu (Male)
 
-Fun fact: Sgit erverless is not necessarily the lack of servers...
+Fun fact: Serverless is not necessarily the lack of servers...
 
 - Email [imatafu@outlook.com](mailto:imatafu@outlook.com)
 - GitHub [iMprojekt](https://github.com/iMprojekt)
