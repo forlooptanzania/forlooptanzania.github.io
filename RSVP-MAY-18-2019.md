@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Noel Jackson (Male)
 
-Fun fact: My web browser is vim-based.
+Fun fact: I don't use social  networks
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [noelnoja8@gmail.com](mailto:noelnoja8@gmail.com)
+- GitHub [noelnoja](https://github.com/noelnoja)
+- Twitter: I don't have one 
