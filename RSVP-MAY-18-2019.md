@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Michael Kisingi (Male)
 
-Fun fact: My web browser is vim-based.
+Fun fact: No body cares about your story till you win,...So win!!!.
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [kisingimichael12@gmail.com](mailto:kisingimichael12@gmail.com)
+- GitHub [kisingimichael](https://github.com/kisingimichael)
+- Twitter [@KISINGIMICHAEL](https://twitter.com/KISINGIMICHAEL)
