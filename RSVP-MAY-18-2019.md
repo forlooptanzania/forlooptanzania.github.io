@@ -1,9 +1,9 @@
 # RSVP - May 18, 2019
 
-## Joshua Mabina (Male)
+## Danford Kija (Male)
 
-Fun fact: My web browser is vim-based.
+Fun fact: I realy hate bugs in deadline.
 
-- Email [mabinajoshua@gmail.com](mailto:mabinajoshua@gmail.com)
-- GitHub [joshuamabina](https://github.com/joshuambina)
-- Twitter [@joshuamabina](https://twitter.com/joshuamabina)
+- Email [kijadanford@gmail.com](mailto:kijadanford@gmail.com)
+- GitHub [kijacode](https://github.com/kijacode)
+- Twitter [@kijacode](https://twitter.com/kijacode)
